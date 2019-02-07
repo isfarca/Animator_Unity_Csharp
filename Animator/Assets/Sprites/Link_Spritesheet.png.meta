@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: 3cb58379d5f71aa4fa46185ce48c0485
+timeCreated: 1520934662
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Link_Spritesheet_0
+    21300002: Link_Spritesheet_1
+    21300004: Link_Spritesheet_2
+    21300006: Link_Spritesheet_3
+    21300008: Link_Spritesheet_4
+    21300010: Link_Spritesheet_5
+    21300012: Link_Spritesheet_6
+    21300014: Link_Spritesheet_7
+    21300016: Link_Spritesheet_8
+    21300018: Link_Spritesheet_9
+    21300020: Link_Spritesheet_10
+    21300022: Link_Spritesheet_11
+    21300024: Link_Spritesheet_12
+    21300026: Link_Spritesheet_13
+    21300028: Link_Spritesheet_14
+    21300030: Link_Spritesheet_15
+    21300032: Link_Spritesheet_16
+    21300034: Link_Spritesheet_17
+    21300036: Link_Spritesheet_18
+    21300038: Link_Spritesheet_19
+    21300040: Link_Move_Left_0
+    21300042: Link_Move_Left_1
+    21300044: Link_Move_Left_2
+    21300046: Link_Move_Left_3
+    21300048: Link_Move_Left_4
+    21300050: Link_Move_Left_5
+    21300052: Link_Move_Left_6
+    21300054: Link_Move_Left_7
+    21300056: Link_Move_Left_8
+    21300058: Link_Move_Left_9
+    21300060: Link_Spritesheet_30
+    21300062: Link_Spritesheet_31
+    21300064: Link_Spritesheet_32
+    21300066: Link_Spritesheet_33
+    21300068: Link_Spritesheet_34
+    21300070: Link_Spritesheet_35
+    21300072: Link_Spritesheet_36
+    21300074: Link_Spritesheet_37
+    21300076: Link_Spritesheet_38
+    21300078: Link_Spritesheet_39
+    21300080: Link_Move_Right_0
+    21300082: Link_Move_Right_1
+    21300084: Link_Move_Right_2
+    21300086: Link_Move_Right_3
+    21300088: Link_Move_Right_4
+    21300090: Link_Move_Right_5
+    21300092: Link_Move_Right_6
+    21300094: Link_Move_Right_7
+    21300096: Link_Move_Right_8
+    21300098: Link_Move_Right_9
+    21300100: Link_Move_Right_0
+    21300102: Link_Move_Right_1
+    21300104: Link_Move_Right_2
+    21300106: Link_Move_Right_3
+    21300108: Link_Move_Right_4
+    21300110: Link_Move_Right_5
+    21300112: Link_Spritesheet_46
+    21300114: Link_Move_Right_6
+    21300116: Link_Move_Right_7
+    21300118: Link_Move_Right_8
+    21300120: Link_Spritesheet_20
+    21300122: Link_Spritesheet_21
+    21300124: Link_Spritesheet_22
+    21300126: Link_Spritesheet_23
+    21300128: Link_Spritesheet_24
+    21300130: Link_Spritesheet_25
+    21300132: Link_Spritesheet_26
+    21300134: Link_Spritesheet_27
+    21300136: Link_Spritesheet_28
+    21300138: Link_Spritesheet_29
+    21300140: Link_Spritesheet_40
+    21300142: Link_Spritesheet_41
+    21300144: Link_Spritesheet_42
+    21300146: Link_Spritesheet_43
+    21300148: Link_Spritesheet_44
+    21300150: Link_Spritesheet_45
+    21300152: Link_Spritesheet_47
+    21300154: Link_Spritesheet_48
+    21300156: Link_Spritesheet_49
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Link_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 727
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 727
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 727
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 623
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 623
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 623
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 519
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 415
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 415
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 415
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 311
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 319
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 311
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 311
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 311
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 311
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 319
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 311
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 311
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 311
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 207
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 210
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 219
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 210
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 210
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 207
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 207
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 215
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 215
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 210
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 111
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 111
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 111
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 111
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 111
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 111
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 111
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 111
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 107
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 111
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 3
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 11
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
